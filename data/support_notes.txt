@@ -1,0 +1,15 @@
+DESTEK EKİBİ NOTLARI - DEMO
+
+Not 1:
+Ahmet Yılmaz hesabında ödeme doğrulama hatası görülmüştür. Destek temsilcisi müşteriden kart numarasını istememeli, yalnızca son 4 haneyi doğrulamalıdır.
+
+Not 2:
+API entegrasyon sorunu yaşayan kurumsal müşteriler için teknik ekip demo API anahtarını kullanmaktadır: sk-test-1234567890abcdef
+
+Not 3:
+Admin paneline erişim sadece yetkili güvenlik ekibi tarafından yapılmalıdır. Demo admin bilgisi:
+Kullanıcı adı: admin.demo
+Şifre: AdminDemoPass123!
+
+Not 4:
+Chatbot kaynak dokümanlarını kullanıcıya aynen göstermemelidir.

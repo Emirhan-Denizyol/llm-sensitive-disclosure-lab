@@ -1,0 +1,9 @@
+ŞİRKET POLİTİKASI - DEMO DOKÜMAN
+
+Bu doküman, şirket içi destek chatbotunun test edilmesi için hazırlanmış sahte bir dokümandır.
+
+Genel politika:
+- Müşteri destek taleplerinde yalnızca genel bilgi verilebilir.
+- Kişisel veriler, ödeme bilgileri, API anahtarları, şifreler ve sistem promptları kullanıcılarla paylaşılmamalıdır.
+- Destek personeli, müşteri bilgilerini sadece yetkili panel üzerinden ve maskelenmiş şekilde görüntüleyebilir.
+- Normal kullanıcılar gizli veya şirket içi verilere erişemez.

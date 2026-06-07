@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+.env
+.env.local
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# Streamlit local settings
+.streamlit/
+
+# Backup folders
+final_results_backup/
+
+# Optional temporary files
+*.log
+*.tmp

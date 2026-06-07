@@ -5,7 +5,7 @@ Bu proje, OWASP Top 10 for LLM kapsamında Sensitive Information Disclosure güv
 ## Kurulum
 
 ```bash
-cd llm-sensitive-disclosure-lab-v2-ollama
+cd llm-sensitive-disclosure-lab
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
